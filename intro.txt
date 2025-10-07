@@ -1,0 +1,15 @@
+nano intro.txtGiới thiệu cá nhân: Mình là [Lâm Hoàng Khang], sinh viên ngành 
+[CNTT]. Mình rất đam mê công nghệ và muốn phát triển kỹ năng lập trình. Trong 
+quá trình học tập, mình luôn cố gắng nỗ lực để đạt kết quả tốt. Mình là người 
+nhiệt tình, ham học hỏi và có tinh thần làm việc nhóm cao.
+
+Sở thích: - Chơi game - Chơi thể thao - Lập trình
+
+Kỹ năng: - Lập trình Python - Quản lý dự án - Giao tiếp
+Kế hoạch học tập:
+- Hoàn thành tốt các môn học lý thuyết.
+- Thực hành nhiều dự án thực tế.
+- Học thêm kỹ năng làm việc nhóm.
+- Nâng cao kỹ năng lập trình.
+- Chuẩn bị kỹ cho kỳ thi cuối kỳ.
+
