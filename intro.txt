@@ -1,4 +1,6 @@
 Hello, this is <Lâm Hoàng Khang>
+Xin chào, tôi là <Lâm Hoàng Khang>
+Conflict resolved on <07/10/2025>
 , sinh viên ngành 
 [CNTT]. Mình rất đam mê công nghệ và muốn phát triển kỹ năng lập trình. Trong 
 quá trình học tập, mình luôn cố gắng nỗ lực để đạt kết quả tốt. Mình là người 
