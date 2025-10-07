@@ -10,3 +10,7 @@
 
 **Ngày bắt đầu:** 07/10/2025  
 **Ngày kết thúc:** 13/10/2025
+
+- Học cách sử dụng Git một cách hiệu quả.
+- Thực hành sử dụng các lệnh Git trong các dự án thực tế.
+- Nâng cao kỹ năng quản lý mã nguồn.
