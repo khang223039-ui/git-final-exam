@@ -1,0 +1,7 @@
+Tính năng mới:
+
+- Cho phép người dùng đăng nhập qua Google.
+- Tích hợp xác thực 2 lớp.
+- Cải thiện giao diện người dùng.
+- Tối ưu hiệu suất tải trang.
+- Thêm chức năng thông báo qua email.
