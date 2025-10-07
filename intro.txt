@@ -1,4 +1,5 @@
-nano intro.txtGiới thiệu cá nhân: Mình là [Lâm Hoàng Khang], sinh viên ngành 
+Hello, this is <Lâm Hoàng Khang>
+, sinh viên ngành 
 [CNTT]. Mình rất đam mê công nghệ và muốn phát triển kỹ năng lập trình. Trong 
 quá trình học tập, mình luôn cố gắng nỗ lực để đạt kết quả tốt. Mình là người 
 nhiệt tình, ham học hỏi và có tinh thần làm việc nhóm cao.
